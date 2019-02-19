@@ -47,7 +47,7 @@ public class Emp {
 	 //기능(함수)
 	 public String getEmpInfo() {
 		 return empno + "/" + ename + "/" + job+ "/"+ sal;
-		 
+		
 	 }
 	 
 }

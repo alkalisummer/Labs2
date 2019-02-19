@@ -7,6 +7,8 @@ public class AirPlane {
 	public static int count;
      
 	
+	
+	
 	public AirPlane() {
 		count++;
 		
